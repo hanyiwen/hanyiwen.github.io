@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Yiwen Han</title>
-    <link>https://hanyiwen.github.io/publication/</link>
-    <description>Recent content in Publications on Yiwen Han</description>
+    <title>Yiwen Han</title>
+    <link>https://hanyiwen.github.io/authors/yiwen-han/</link>
+    <description>Recent content on Yiwen Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 23:11:27 +0800</lastBuildDate>
     
-	<atom:link href="https://hanyiwen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hanyiwen.github.io/authors/yiwen-han/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,15 @@
       
       <guid>https://hanyiwen.github.io/publication/tsp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>https://hanyiwen.github.io/post/post1/</link>
+      <pubDate>Sun, 27 Jan 2019 22:54:35 +0800</pubDate>
+      
+      <guid>https://hanyiwen.github.io/post/post1/</guid>
+      <description>Mobile Edge Computing</description>
     </item>
     
   </channel>

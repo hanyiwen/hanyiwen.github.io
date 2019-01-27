@@ -5,10 +5,20 @@
     <link>https://hanyiwen.github.io/publication_types/</link>
     <description>Recent content in Publication_types on Yiwen Han</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sun, 27 Jan 2019 23:11:27 +0800</lastBuildDate>
     
 	<atom:link href="https://hanyiwen.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2</title>
+      <link>https://hanyiwen.github.io/publication_types/2/</link>
+      <pubDate>Sun, 27 Jan 2019 23:11:27 +0800</pubDate>
+      
+      <guid>https://hanyiwen.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

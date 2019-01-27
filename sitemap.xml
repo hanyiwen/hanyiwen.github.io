@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://hanyiwen.github.io/publication/tsp/</loc>
+      <lastmod>2019-01-27T23:11:27+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hanyiwen.github.io/post/post1/</loc>
+      <lastmod>2019-01-27T22:54:35+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hanyiwen.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
@@ -35,6 +51,15 @@
     
     <url>
     
+      <loc>https://hanyiwen.github.io/publication_types/2/</loc>
+      <lastmod>2019-01-27T23:11:27+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hanyiwen.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -59,7 +84,35 @@
     
     <url>
     
+      <loc>https://hanyiwen.github.io/tags/journal/</loc>
+      <lastmod>2019-01-27T23:11:27+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hanyiwen.github.io/tags/life/</loc>
+      <lastmod>2019-01-27T22:54:35+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hanyiwen.github.io/categories/life/</loc>
+      <lastmod>2019-01-27T22:54:35+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hanyiwen.github.io/publication_types/</loc>
+      <lastmod>2019-01-27T23:11:27+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -68,6 +121,7 @@
     <url>
     
       <loc>https://hanyiwen.github.io/tags/</loc>
+      <lastmod>2019-01-27T23:11:27+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -77,6 +131,15 @@
     
       <loc>https://hanyiwen.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hanyiwen.github.io/authors/yiwen-han/</loc>
+      <lastmod>2019-01-27T23:11:27+08:00</lastmod>
       <priority>0</priority>
     </url>
     
